@@ -1,5 +1,4 @@
 #Задание №1
-print('Задание №1')
 
 one_minute = 60
 one_hour = 3600
